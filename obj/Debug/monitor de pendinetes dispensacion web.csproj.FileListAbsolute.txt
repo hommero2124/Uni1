@@ -1,0 +1,50 @@
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\libSkiaSharp.dylib
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\monitor de pendinetes dispensacion web.exe.config
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\monitor de pendinetes dispensacion web.exe
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\monitor de pendinetes dispensacion web.pdb
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\ClosedXML.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\ClosedXML.Parser.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\ExcelNumberFormat.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\iTextSharp.LGPLv2.Core.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\RBush.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\SixLabors.Fonts.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\SkiaSharp.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Buffers.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Memory.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\ClosedXML.pdb
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\ClosedXML.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\ClosedXML.Parser.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\ExcelNumberFormat.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\iTextSharp.LGPLv2.Core.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\RBush.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\SixLabors.Fonts.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\SkiaSharp.pdb
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Buffers.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Memory.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor de pendinetes dispensacion web.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor de pendinetes dispensacion web_MarkupCompile.cache
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor de pendinetes dispensacion web.g.resources
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor_de_pendinetes_dispensacion_web.Properties.Resources.resources
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor de pendinetes dispensacion web.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor de pendinetes dispensacion web.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor .BC3C6FF9.Up2Date
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor de pendinetes dispensacion web.exe
+C:\Users\usuario\Desktop\Programacion\C#\monitor de pendinetes dispensacion web\monitor de pendinetes dispensacion web\obj\Debug\monitor de pendinetes dispensacion web.pdb

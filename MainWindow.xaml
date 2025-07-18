@@ -1,0 +1,44 @@
+﻿<Window x:Class="ConsultaBD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Consulta BD"
+        WindowState="Maximized"
+        ResizeMode="CanResize"
+        WindowStartupLocation="CenterScreen">
+
+    <DockPanel LastChildFill="True">
+
+        <!-- Panel superior con título y botones -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Vertical" Margin="10">
+
+            <!-- Título centrado -->
+            <TextBlock Text="CONSULTA DE REGISTROS PENDIENTES POR REGISTRAR EN OFIMA"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10" />
+
+            <!-- Botones alineados a la izquierda -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <Button x:Name="btnExportarExcel" Content="Exportar a Excel" Click="btnExportarExcel_Click" Margin="0,0,10,0"/>
+                <!--<Button x:Name="btnExportarPDF" Content="Exportar a PDF" Click="btnExportarPDF_Click"/>-->
+            </StackPanel>
+
+        </StackPanel>
+
+        <!-- Panel inferior con estado y botones -->
+        <DockPanel DockPanel.Dock="Bottom" Margin="10">
+            <TextBlock x:Name="txtEstado" VerticalAlignment="Center" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" DockPanel.Dock="Right">
+                <Button x:Name="btnRefrescar" Content="Refrescar" Click="btnRefrescar_Click" Margin="5,0"/>
+                <Button Content="Cerrar" Click="btnCerrar_Click"/>
+            </StackPanel>
+        </DockPanel>
+
+        <!-- DataGrid principal -->
+        <DataGrid x:Name="dgDatos"
+                  AutoGenerateColumns="True"
+                  IsReadOnly="True"
+                  Margin="10"/>
+    </DockPanel>
+</Window>
