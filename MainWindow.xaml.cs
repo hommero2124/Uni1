@@ -136,29 +136,36 @@ namespace ConsultaBD
 
         private void btnExportarExcel_Click(object sender, RoutedEventArgs e)
         {
-            var registros = dgDatos.ItemsSource as List<Registro>;
-            if (registros == null || registros.Count == 0)
-            {
-                MessageBox.Show("No hay datos para exportar.");
-                return;
-            }
-
-            DataTable dt = ConvertToDataTable(registros);
-
-            Microsoft.Win32.SaveFileDialog sfd = new Microsoft.Win32.SaveFileDialog
-            {
-                Filter = "Excel (*.xlsx)|*.xlsx",
-                FileName = "Exportacion.xlsx"
-            };
-
-            if (sfd.ShowDialog() == true)
-            {
-                using (XLWorkbook wb = new XLWorkbook())
+            try
+            { 
+                var registros = dgDatos.ItemsSource as List<Registro>;
+                if (registros == null || registros.Count == 0)
                 {
-                    wb.Worksheets.Add(dt, "Datos");
-                    wb.SaveAs(sfd.FileName);
-                    MessageBox.Show("Datos exportados a Excel exitosamente.");
+                    MessageBox.Show("No hay datos para exportar.");
+                    return;
                 }
+
+                DataTable dt = ConvertToDataTable(registros);
+
+                Microsoft.Win32.SaveFileDialog sfd = new Microsoft.Win32.SaveFileDialog
+                {
+                    Filter = "Excel (*.xlsx)|*.xlsx",
+                    FileName = "Exportacion.xlsx"
+                };
+
+                if (sfd.ShowDialog() == true)
+                {
+                    using (XLWorkbook wb = new XLWorkbook())
+                    {
+                        wb.Worksheets.Add(dt, "Datos");
+                        wb.SaveAs(sfd.FileName);
+                        MessageBox.Show("Datos exportados a Excel exitosamente.");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al generar el excel:\n" + ex.Message);
             }
         }
 

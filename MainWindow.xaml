@@ -4,7 +4,9 @@
         Title="Consulta BD"
         WindowState="Maximized"
         ResizeMode="CanResize"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        Icon="icono.ico"
+        >
 
     <DockPanel LastChildFill="True">
 
